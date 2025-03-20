@@ -24,6 +24,8 @@ public class Ordered {
 			System.out.println("Not well ordered");
 		else
 			System.out.println("Well ordered");
+
+            sc.close();
 	}
 
 }
