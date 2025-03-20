@@ -1,3 +1,4 @@
+// Merge two sorted arrays into the third array
 import java.util.Random;
 
 public class Merge {
