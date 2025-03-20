@@ -1,4 +1,4 @@
-// Input a number and check whether the didgits in it are in ascending order
+// Input a number and check whether the digits in it are in ascending order
 import java.util.Scanner;
 public class Ordered {
 
