@@ -1,6 +1,6 @@
 /*
- * generates an array of 20 random integers between 10 and 99, then rearranges the array so that 
- * all even numbers appear before all odd numbers while preserving their relative order.
+ * Generates an array of 20 random integers between 10 and 99, then rearranges the array so that 
+ * all even numbers appear before all odd numbers while preserving their relative order
  */
 import java.util.*;
 public class EvenOddArrange {
