@@ -3,7 +3,7 @@ public class Prime {
     public static boolean isPrime(int n)
         {
             boolean flag=true;
-            for(int i=0;i<n;i++)
+            for(int i=2;i<n;i++)
             {
                 if(n%i==0)
                 flag=false;
@@ -16,14 +16,14 @@ public class Prime {
     
             int j=2;
     
-            for(int i=0;i<100;i++)
+            for(int i=0;i<100;j++)
             {
                 if(isPrime(j))
-            arr[i++]=j;
-        }
+                arr[i++]=j;
+            }
         for(int i=0;i<arr.length;i++)
         {
-            System.out.println(arr[i]+" ");
+            System.out.print(arr[i]+" ");
         }
     }
 }
