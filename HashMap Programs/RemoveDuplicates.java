@@ -1,4 +1,4 @@
-//Remove DUplicate elements from an integer array using HashMap
+//Remove Duplicate elements from an integer array using HashMap
 import java.util.*;
 public class RemoveDuplicates {
 
