@@ -1,5 +1,5 @@
 /* Check if a number is perfect number or not
- * A number is a perfect number if its sum of digits is equal to the number 
+ * A number is a perfect number if sum of its divisors is equal to the number 
  */
 import java.util.*;
 public class PerfectNumber {
@@ -25,3 +25,4 @@ public class PerfectNumber {
 
     }
 }
+
